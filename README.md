@@ -1,7 +1,9 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">Python Full Stack Developer | DSA Enthusiast | Building Scalable Web Applications</h3>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Python+Full+Stack+Developer;DSA+Enthusiast;Building+Scalable+Web+Applications&center=true&width=600&height=50">
+</p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=akshayikify&label=Profile%20views&color=0e75b6&style=flat" alt="akshayikify" />
 </p>
